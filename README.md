@@ -1,4 +1,4 @@
-<center><h1>Betting website</h1></center>
+<center><h1>Fidija Cloud</h1></center>
 <hr>
 Code is private because of security reasons.
 <hr>
