@@ -1,6 +1,6 @@
 <center><h1>Betting website</h1></center>
 <hr>
-Code for this website is private due to client protection. / Code is private because of security reasons.
+Code is private because of security reasons.
 <hr>
 This project was team project for college purposes.
 This project is consisted of 2 parts. 
