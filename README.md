@@ -1,6 +1,21 @@
-# PHP---MR2-Dropbox-Pictures
-Front end: HTML, CSS, BOOTSTRAP, JS, jQUERY || Backend: PHP, jQuery, AJAX || DB: mysql
-
+<center><h1>Betting website</h1></center>
+<hr>
+Code for this website is private due to client protection. / Code is private because of security reasons.
+<hr>
 This project was team project for college purposes.
-This project is consisted of 2 parts. 1.st part -> desktop part (made in java), 2.nd part -> web browser part (made in technologies mentioned above)
-I was working as a back end developer, while other colleague was working in Java for desktop part.
+This project is consisted of 2 parts. 
+<ol>
+  <li>st part -> desktop part (made in java)</li>
+  <li>nd part -> web browser part (made in technologies mentioned bellow)</li>
+</ol>
+I was working as a back end developer, while other colleague was working in Java for desktop part.<br>
+<b>Front end technologies:</b> HTML, CSS, BOOTSTRAP, JS, jQUERY<br>
+<b>Back end:</b> PHP, jQuery, AJAX, Java<br>
+<b>Database:</b> mySQL<br><br>
+
+<b>Webpage contains:</b><br>
+<ul>
+  <li>Login page</li>
+  <li>Register page</li>
+  <li>File managment page</li>
+</ul>
