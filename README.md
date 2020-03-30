@@ -25,7 +25,7 @@ Bellow this text, there are some pictures of a desktop application.<br>
 ![JavaClient_1](https://user-images.githubusercontent.com/35956934/77964843-193eac80-72e0-11ea-91c7-bedce79b051f.jpg)
 <br>
 <br>
-*Chose sync folder*<br>
+*Choose sync folder*<br>
 ![JavaClient_2](https://user-images.githubusercontent.com/35956934/77964588-99184700-72df-11ea-9a2f-390e1093e8d9.png)
 <br>
 <br>
